@@ -2,6 +2,7 @@
 
 ## Features:
 * Parcel 1.11 
+* Babel 7
 * React 16.8
 * React Router v4
 * Prop-types
