@@ -8,6 +8,7 @@
 * Prop-types
 * Sass
 * ESLint (with React config and Prettier plugin)
+* Husky + Lint-staged
 
 ## Scripts
 * **dev**: Run dev build with server instance,
